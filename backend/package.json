@@ -2,13 +2,13 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "start": "node sever.js",
     "dev": "nodemon server.js"
   },
   "resolutions": {
-    "inflight": "1.0.6"  
+    "inflight": "1.0.6"
   },
   "author": "",
   "license": "ISC",
@@ -26,6 +26,4 @@
     "npm-force-resolutions": "^0.0.10",
     "validator": "^13.12.0"
   }
-
-  
 }

@@ -35,7 +35,7 @@ const Navbar = () => {
       <>
       <nav className={"container"}>
         <div className="logo">
-          <img src="" alt="IITG Hospital" className="logo-img" />
+          <img src="/logo.png" alt="IITG Hospital" className="logo-img" />
         </div>
         <div className={show ? "navLinks showmenu" : "navLinks"}>
           <div className="links">
